@@ -506,8 +506,8 @@ public class BankSystem extends JFrame implements ActionListener, ItemListener {
 		}
 		else if (obj == about) {
 
-			String msg = "BankSystem [Pvt] Limited.\n\n" + "Created & Designed By:\n" + 
-				"Badamasi, Kabiru, Adediran\n\n" + "E-mail me:\n wasi_javed@hotmail.com";
+			String msg = "Automated Bank System [ABS] Limited.\n\n" + "Designed & Implemented By:\n" + 
+				"Badamasi, Kabiru, Adediran\n\n" + "E-mail me:\n badamasiyusuf611@gmail.com.com";
 			JOptionPane.showMessageDialog (this, msg, "About BankSystem", JOptionPane.PLAIN_MESSAGE);
 
 		}
